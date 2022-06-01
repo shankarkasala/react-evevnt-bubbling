@@ -1,0 +1,9 @@
+h1, p {
+  font-family: Lato;
+}
+div{
+  min-height: 100px;
+  min-width: 100px;
+  border: 1px solid black;
+  padding: 10px;
+}
